@@ -1,8 +1,10 @@
 ## Kristine Jecha
 
 I am a student at the University of Lausanne, Switzerland, starting my PhD in Ecology and Evolution in the Schwander group. I will be studying the evolution og genomic conflict within the genus _Nephus_, a genus of ladybugs.
+`kristine.jecha@unil.ch`  
 
 ### CV
+<embed src=""C:\Users\krisk\OneDrive\Desktop\Kristine Resume 2022.docx.pdf"" type="application/pdf">
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
