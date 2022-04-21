@@ -5,8 +5,8 @@ I am a student at the University of Lausanne, Switzerland, starting my PhD in Ec
 
 ### CV
 
-<embed src="https://kriskaykj.github.ioKristine Resume 2022.docx.pdf" type="application/pdf"/>
-![alt text](https://kriskaykj.github.ioKristine Resume 2022.docx.pdf)  TEST
+<embed src="https://kriskaykj.github.io/Kristine Resume 2022.docx.pdf" type="application/pdf"/>
+![alt text](https://kriskaykj.github.io/Kristine Resume 2022.docx.pdf)  TEST1
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
