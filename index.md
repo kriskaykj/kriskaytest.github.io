@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Kristine Jecha: Ecology & Evolution PhD student - University of Lausanne,CH
 
 You can use the [editor on GitHub](https://github.com/kriskaykj/kriskaykj.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
