@@ -1,8 +1,6 @@
 ## Kristine Jecha: Ecology & Evolution PhD student - University of Lausanne,CH
 
-You can use the [editor on GitHub](https://github.com/kriskaykj/kriskaykj.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a student at the University of Lausanne, Switzerland, starting my PhD in Ecology and Evolution in the Schwander group. I will be studying the evolution og genomic conflict within the genus _Nephus_, a genus of ladybugs.
 
 ### Markdown
 
