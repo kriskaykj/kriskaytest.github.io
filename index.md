@@ -5,7 +5,7 @@ I am a student at the University of Lausanne, Switzerland, starting my PhD in Ec
 
 ### CV
 
-<embed src="https://kriskaykj.github.io/KristineCV2022.pdf" width="1000" height="1000" type="application/pdf"/>
+<embed src="https://kriskaykj.github.io/KristineCV2022.pdf" width="600" height="700" type="application/pdf"/>
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
